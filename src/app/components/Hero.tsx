@@ -5,15 +5,15 @@ function Hero() {
     const items = [
          {
       icon: <Percent size={40} color="green" />,
-      title: "Temu diğerlerinden daha düşük fiyatları nasıl sunabilir?",
+      title: "Mashoor diğerlerinden daha düşük fiyatları nasıl sunabilir?",
       description:
-        "Temu, müşterileri doğrudan uygun maliyetli üreticilerle bir araya getiriyor ve rekabetçi fiyatlara sahip ürünlere olanak tanıyor. Müşteriler, birden fazla aracı ortadan kaldırarak ve fabrikadan tüketicilere doğrudan gönderiler yaparak toptan satış fiyatlarından kaynak üzerinden faydalanır.",
+        "Mashoor, müşterileri doğrudan uygun maliyetli üreticilerle bir araya getiriyor ve rekabetçi fiyatlara sahip ürünlere olanak tanıyor. Müşteriler, birden fazla aracı ortadan kaldırarak ve fabrikadan tüketicilere doğrudan gönderiler yaparak toptan satış fiyatlarından kaynak üzerinden faydalanır.",
     },
     {
       icon: <ThumbsUp size={40} color="green" />,
       title: "Geniş bir ürün yelpazesi",
       description:
-        "Temu, gelişmiş bir tedarikçi ağına erişim imkânına sahiptir. Bu tedarikçilerin birçoğu, ölçeğimiz sayesinde Temu’da tüketicilere uygun fiyatlar sunan dünya standartlarında üreticilerdir. Temu’nun ayrıca sahte veya güvenli olmayan ürünlere karşı katı politikaları bulunmaktadır.",
+        "Mashoor, gelişmiş bir tedarikçi ağına erişim imkânına sahiptir. Bu tedarikçilerin birçoğu, ölçeğimiz sayesinde Mashoor’da tüketicilere uygun fiyatlar sunan dünya standartlarında üreticilerdir. Mashoor’nun ayrıca sahte veya güvenli olmayan ürünlere karşı katı politikaları bulunmaktadır.",
     },
     ];
 
@@ -21,7 +21,7 @@ function Hero() {
     <div className='space-y-10 mt-0 flex flex-col items-center px-4 py-8 max-w-5xl mx-auto'>
       <img 
       src="http://localhost:3000/images/BigTick.png"
-      alt='WhyChooseTemu'
+      alt='WhyChooseMashoor'
       className='w-auto h-22 mx-auto mb-4'
       />
         {items.map((item, index) => (
