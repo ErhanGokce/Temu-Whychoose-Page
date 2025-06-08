@@ -17,8 +17,8 @@ function SecuritySection() {
         <ul className='list-none space-y-2 text-gray-700'>
             <li className='flex items-start gap-2'><CheckInCircle color='green' className='text-green-600 mt-1' size={20}/> Kart bilgileriniz güvende olur ve tehlikede değildir</li>
             <li className='flex items-start gap-2'><CheckInCircle color='green' className='text-green-600 mt-1' size={20}/> Tüm Veriler şifrelenir</li>
-            <li className='flex items-start gap-2'><CheckInCircle color='green' className='text-green-600 mt-1' size={20}/> Temu, kart verilerini işlerken Ödeme Kartı Sektör Veri Güvenliği Standardını (PCI DSS) ve diğer güvenlik standartlarını izler</li>
-            <li className='flex items-start gap-2'><CheckInCircle color='green' className='text-green-600 mt-1' size={20}/> Temu kart bilgilerinizi asla satmaz</li>
+            <li className='flex items-start gap-2'><CheckInCircle color='green' className='text-green-600 mt-1' size={20}/> Mashoor, kart verilerini işlerken Ödeme Kartı Sektör Veri Güvenliği Standardını (PCI DSS) ve diğer güvenlik standartlarını izler</li>
+            <li className='flex items-start gap-2'><CheckInCircle color='green' className='text-green-600 mt-1' size={20}/> Mashoor kart bilgilerinizi asla satmaz</li>
         </ul>
 
         {/* Card logos */}
@@ -103,22 +103,22 @@ function SecuritySection() {
           Kasım 2023’te, potansiyel güvenlik açıklarını başarılı bir şekilde keşfedip çözen siber güvenlik
           topluluğuna ödüller sunan bir hata ödül programı oluşturmak için siber güvenlik ajansı{" "}
           <a
-            href="https://hackerone.com/temu"
+            href="https://hackerone.com/Mashoor"
             target="_blank"
             rel="noopener noreferrer"
             className="text-green-700 font-medium hover:underline"
           >
             HackerOne
           </a>{" "}
-          ile resmi bir ortaklık kurduk. Temu’da sorunsuz bir alışveriş deneyimi sürdürmeye kararlıyız. Daha
+          ile resmi bir ortaklık kurduk. Mashoor’da sorunsuz bir alışveriş deneyimi sürdürmeye kararlıyız. Daha
           fazla bilgi edinmek için{" "}
           <a
-            href="https://hackerone.com/temu"
+            href="https://hackerone.com/Mashoor"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-600 underline hover:text-blue-800"
           >
-            https://hackerone.com/temu
+            https://hackerone.com/Mashoor
           </a>{" "}
           adresini ziyaret edin.
         </p>

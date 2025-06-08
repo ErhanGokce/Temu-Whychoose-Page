@@ -12,7 +12,7 @@ const steps = [
     number: 2,
     title: "Teslimat garantisi",
     description:
-      "Dünyanın dört bir yanındaki güvenilir lojistik hizmet sağlayıcıları, paketinizin size güvenli ve zamanında ulaşmasını sağlar. Herhangi bir sorun olması durumunda Temu, sorunları çözmek ve en iyi çözümleri sunmak için tedarikçiler ve ilgili lojistik hizmet sağlayıcılarıyla birlikte çalışacaktır.",
+      "Dünyanın dört bir yanındaki güvenilir lojistik hizmet sağlayıcıları, paketinizin size güvenli ve zamanında ulaşmasını sağlar. Herhangi bir sorun olması durumunda Mashoor, sorunları çözmek ve en iyi çözümleri sunmak için tedarikçiler ve ilgili lojistik hizmet sağlayıcılarıyla birlikte çalışacaktır.",
     link: {
       text: "Daha fazla bilgi edin",
       href: "#", 
@@ -22,7 +22,7 @@ const steps = [
     number: 3,
     title: "Teslimat garantisi",
     description:
-      "Dünyanın dört bir yanındaki güvenilir lojistik hizmet sağlayıcıları, paketinizin size güvenli ve zamanında ulaşmasını sağlar. Herhangi bir sorun olması durumunda Temu, sorunları çözmek ve en iyi çözümleri sunmak için tedarikçiler ve ilgili lojistik hizmet sağlayıcılarıyla birlikte çalışacaktır.",
+      "Dünyanın dört bir yanındaki güvenilir lojistik hizmet sağlayıcıları, paketinizin size güvenli ve zamanında ulaşmasını sağlar. Herhangi bir sorun olması durumunda Mashoor, sorunları çözmek ve en iyi çözümleri sunmak için tedarikçiler ve ilgili lojistik hizmet sağlayıcılarıyla birlikte çalışacaktır.",
     link: {
       text: "Daha fazla bilgi edin",
       href: "#", 
@@ -32,7 +32,7 @@ const steps = [
     number: 4,
     title: "Teslimat garantisi",
     description:
-      "Dünyanın dört bir yanındaki güvenilir lojistik hizmet sağlayıcıları, paketinizin size güvenli ve zamanında ulaşmasını sağlar. Herhangi bir sorun olması durumunda Temu, sorunları çözmek ve en iyi çözümleri sunmak için tedarikçiler ve ilgili lojistik hizmet sağlayıcılarıyla birlikte çalışacaktır.",
+      "Dünyanın dört bir yanındaki güvenilir lojistik hizmet sağlayıcıları, paketinizin size güvenli ve zamanında ulaşmasını sağlar. Herhangi bir sorun olması durumunda Mashoor, sorunları çözmek ve en iyi çözümleri sunmak için tedarikçiler ve ilgili lojistik hizmet sağlayıcılarıyla birlikte çalışacaktır.",
     link: {
       text: "Daha fazla bilgi edin",
       href: "#", 
@@ -43,7 +43,7 @@ const steps = [
     number: 5,
     title: "Teslimat garantisi",
     description:
-      "Dünyanın dört bir yanındaki güvenilir lojistik hizmet sağlayıcıları, paketinizin size güvenli ve zamanında ulaşmasını sağlar. Herhangi bir sorun olması durumunda Temu, sorunları çözmek ve en iyi çözümleri sunmak için tedarikçiler ve ilgili lojistik hizmet sağlayıcılarıyla birlikte çalışacaktır.",
+      "Dünyanın dört bir yanındaki güvenilir lojistik hizmet sağlayıcıları, paketinizin size güvenli ve zamanında ulaşmasını sağlar. Herhangi bir sorun olması durumunda Mashoor, sorunları çözmek ve en iyi çözümleri sunmak için tedarikçiler ve ilgili lojistik hizmet sağlayıcılarıyla birlikte çalışacaktır.",
     link: {
       text: "Daha fazla bilgi edin",
       href: "#", 
@@ -95,8 +95,8 @@ export default function Guarantee() {
                 Plant
               </div>
               <div className="flex-1">
-                <h3 className="font-semibold text-lg text-gray-950">Temu'nun Ağaç Dikme Programı</h3>
-                <p className="text-sm text-gray-800 mt-2">Temu, Temmuz 2023'ten bu yana Sahra Altı Afrika'yı ağaçlandırmak üzere bir programı finanse etmek için Trees for the Future ile iş birliği yapmaktadır.</p>
+                <h3 className="font-semibold text-lg text-gray-950">Mashoor'nun Ağaç Dikme Programı</h3>
+                <p className="text-sm text-gray-800 mt-2">Mashoor, Temmuz 2023'ten bu yana Sahra Altı Afrika'yı ağaçlandırmak üzere bir programı finanse etmek için Trees for the Future ile iş birliği yapmaktadır.</p>
                 
                   <a
                     href="#"

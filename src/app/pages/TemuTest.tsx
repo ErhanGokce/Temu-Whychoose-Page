@@ -21,7 +21,9 @@ const TemuTest = () => {
       <StickyScroll />
       <SecuritySection />
       <Guarantee />
-      <ClientComments />
+       <div className='hidden md:block'>
+        <ClientComments />
+       </div>
       </div>
       {/* İkonlu alanlar vb. buraya gelecek */}
     </div>
